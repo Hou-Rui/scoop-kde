@@ -1,4 +1,6 @@
 {
+    "homepage": "https://apps.kde.org/dolphin",
+    "license": "GPL-2.0-or-later",
     "version": "21.12.3-1-1499",
     "bin": "bin/dolphin.exe",
     "checkver": {
